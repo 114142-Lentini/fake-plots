@@ -131,8 +131,34 @@
         "is_active": true,
         "balance": null
       }
-    ]
+    ],
+    "pageable": {
+      "pageNumber": 0,
+      "pageSize": 10,
+      "sort": {
+        "sorted": true,
+        "empty": false,
+        "unsorted": false
+      },
+      "offset": 0,
+      "paged": true,
+      "unpaged": false
+    },
+    "last": false,
+    "totalElements": 36,
+    "totalPages": 4,
+    "size": 10,
+    "number": 0,
+    "sort": {
+      "sorted": true,
+      "empty": false,
+      "unsorted": false
+    },
+    "first": true,
+    "numberOfElements": 10,
+    "empty": false
   }
 }
+
 
 
