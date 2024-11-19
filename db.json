@@ -9,7 +9,7 @@
         "built_area": 100,
         "plot_status": "CREATED",
         "plot_type": "COMMERCIAL",
-        "percentage_for_expense": 0.08,
+        "percentage_for_expense": 17,
         "account_id": null,
         "is_active": true,
         "balance": null
@@ -22,7 +22,7 @@
         "built_area": 150,
         "plot_status": "FOR_SALE",
         "plot_type": "PRIVATE",
-        "percentage_for_expense": 0.08,
+        "percentage_for_expense": 8,
         "account_id": null,
         "is_active": true,
         "balance": null
@@ -35,7 +35,7 @@
         "built_area": 200,
         "plot_status": "SALE",
         "plot_type": "COMMUNAL",
-        "percentage_for_expense": 0.12,
+        "percentage_for_expense": 12,
         "account_id": null,
         "is_active": true,
         "balance": null
@@ -48,7 +48,7 @@
         "built_area": 250,
         "plot_status": "SALE_PROCESS",
         "plot_type": "COMMERCIAL",
-        "percentage_for_expense": 0.09,
+        "percentage_for_expense": 9,
         "account_id": null,
         "is_active": true,
         "balance": null
@@ -61,7 +61,7 @@
         "built_area": 300,
         "plot_status": "CONSTRUCTION_PROCESS",
         "plot_type": "PRIVATE",
-        "percentage_for_expense": 0.15,
+        "percentage_for_expense": 15,
         "account_id": null,
         "is_active": true,
         "balance": null
@@ -74,7 +74,7 @@
         "built_area": 350,
         "plot_status": "EMPTY",
         "plot_type": "COMMUNAL",
-        "percentage_for_expense": 0.1,
+        "percentage_for_expense": 1,
         "account_id": null,
         "is_active": true,
         "balance": null
@@ -87,7 +87,7 @@
         "built_area": 400,
         "plot_status": "CREATED",
         "plot_type": "COMMERCIAL",
-        "percentage_for_expense": 0.09,
+        "percentage_for_expense": 9,
         "account_id": null,
         "is_active": true,
         "balance": null
@@ -100,7 +100,7 @@
         "built_area": 450,
         "plot_status": "FOR_SALE",
         "plot_type": "PRIVATE",
-        "percentage_for_expense": 0.14,
+        "percentage_for_expense": 14,
         "account_id": null,
         "is_active": true,
         "balance": null
@@ -113,7 +113,7 @@
         "built_area": 500,
         "plot_status": "SALE",
         "plot_type": "COMMUNAL",
-        "percentage_for_expense": 0.08,
+        "percentage_for_expense": 8,
         "account_id": null,
         "is_active": true,
         "balance": null
@@ -126,7 +126,7 @@
         "built_area": 550,
         "plot_status": "SALE_PROCESS",
         "plot_type": "COMMERCIAL",
-        "percentage_for_expense": 0.07,
+        "percentage_for_expense": 7,
         "account_id": null,
         "is_active": true,
         "balance": null
